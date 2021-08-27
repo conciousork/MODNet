@@ -32,7 +32,7 @@ if __name__ == '__main__':
         exit()
 
     # define hyper-parameters
-    ref_size = 2000
+    ref_size = 1500
 
     # define image to tensor transform
     im_transform = transforms.Compose(
